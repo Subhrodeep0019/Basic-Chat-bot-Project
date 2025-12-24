@@ -32,7 +32,7 @@
 
 ## Setup Instructions
 
-    ### 1. Clone the repository
+### 1. Clone the repository
     git clone https://github.com/Subhrodeep0019/Basic-Chat-bot-Project.git
     cd Basic-Chat-bot-Project
 
