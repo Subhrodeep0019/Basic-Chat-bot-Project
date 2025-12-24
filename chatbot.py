@@ -42,7 +42,6 @@ while True:
         )
 
         bot_text = response.choices[0].message["content"]
-        # bot_text = response
         
     except Exception as e:
         print(f"bot error: {e}")
